@@ -158,6 +158,7 @@ guia da parte.
 | [tempero-pdv-bi](https://github.com/Tempero-PDV/tempero-pdv-bi) | Tempero BI no estilo Power BI e a plataforma de dados: pipelines, camadas, linhagem, testes de qualidade e métricas. |
 | [tempero-pdv-academia](https://github.com/Tempero-PDV/tempero-pdv-academia) | Treinamentos (treinamentos.temperopdv.com.br): 113 cursos de fábrica, aulas narradas, prova, certificado, jornada com XP e o console de gestão. |
 | [tempero-pdv-agentes](https://github.com/Tempero-PDV/tempero-pdv-agentes) | Agentes do Tempero: corrida entre modelos, retrato da empresa, ferramentas, propostas com aprovação e o escritório 3D. |
+| [tempero-pdv-vila](https://github.com/Tempero-PDV/tempero-pdv-vila) | Tempero Vila (vila.temperopdv.com.br): a vila dos agentes do Claude Code no computador, com tarefas, recompensas, cômodos, prédios, avatares, os repositórios da organização e integrações por API, webhooks e MCP. Cópia automática pelo GitHub Actions. |
 
 #### Documentação e ferramentas
 
